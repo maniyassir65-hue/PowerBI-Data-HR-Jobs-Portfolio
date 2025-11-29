@@ -23,7 +23,7 @@ The V2.0 dashboard addresses the fragmentation of job market data. Designed spec
 The initial version of the project, focusing on granular exploration and multi-page storytelling.
 
 ![Dashboard V1](dashboard_v1.png)
-*(⚠️ Upload an image named 'dashboard_v1.png')*
+
 
 ### 🔑 Key Features
 *   **Drill-Through Capabilities:** Users can click on a job title to access a detailed breakdown page (Remote work stats, Top platforms).
