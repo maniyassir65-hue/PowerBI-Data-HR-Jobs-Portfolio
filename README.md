@@ -8,7 +8,7 @@ This repository showcases a complete journey in Power BI development, featuring 
 The V2.0 dashboard addresses the fragmentation of job market data. Designed specifically for **Job Seekers and Career Changers**, it consolidates complex data into a single, high-impact view.
 
 ![Dashboard V2](dashboard_v2.png)
-*(⚠️ Upload an image named 'dashboard_v2.png')*
+
 
 ### 🔑 Key Features
 *   **Single-Page Architecture:** A consolidated view for immediate insights without navigation friction.
